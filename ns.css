@@ -1,0 +1,53 @@
+body {
+
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+h1 {
+    font-size: 40px;
+
+
+}
+
+.color {
+
+    color: rgb(255, 0, 132);
+
+}
+
+.ff {
+
+    color: rgb(246, 12, 133);
+}
+
+section {
+
+    display: flex;
+}
+
+.kala {
+
+    width: 50%;
+
+    padding-left: 3%;
+}
+
+.kala img {
+
+    width: 100%;
+}
+
+.fkl {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(228, 12, 170), rgb(255, 2, 141));
+    padding: 10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
